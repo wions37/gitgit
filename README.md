@@ -1,2 +1,1 @@
-# # gitgit gitgit
-github공부용
+# gitgit gitgit
